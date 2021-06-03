@@ -1,1 +1,1 @@
-# yanml-pipelines
+# yaml-pipelines
